@@ -4,7 +4,7 @@
 
 2. Perform the following commands in the command line
 ```bash
-git clone https://github.com/SEB-13-Bahrain/jwt-auth-template-frontend.git .
+git clone https://github.com/SEB-PT-9-Bahrain/auth-template-frontend.git .
 rm -rf .git
 rm README.md
 ```
